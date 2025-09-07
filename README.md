@@ -127,10 +127,10 @@ This project performs an Exploratory Data Analysis (EDA) on a retail sales datas
 ##  **Step 9 – Final Business Insights**
 
 **Conclusion:**
-✔ The dataset reveals that the majority of sales are driven by customers aged 25–40.
-✔ High-value transactions, although rare, suggest opportunities for targeted premium offers.
-✔ Product category segmentation shows clear favorites, helping optimize stock and marketing efforts.
-✔ The correlation between Quantity and Total Amount confirms expected patterns and can be used to forecast future demand.
-✔ Skewed data distribution was addressed with transformations, ensuring more accurate statistical analysis.
+* The dataset reveals that the majority of sales are driven by customers aged 25–40.
+* High-value transactions, although rare, suggest opportunities for targeted premium offers.
+* Product category segmentation shows clear favorites, helping optimize stock and marketing efforts.
+* The correlation between Quantity and Total Amount confirms expected patterns and can be used to forecast future demand.
+* Skewed data distribution was addressed with transformations, ensuring more accurate statistical analysis.
 
 ---
