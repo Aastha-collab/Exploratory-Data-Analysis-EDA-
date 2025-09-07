@@ -1,4 +1,4 @@
-# ** Exploratory Data Analysis (EDA) **
+# **Exploratory Data Analysis (EDA)**
 
 This project performs an Exploratory Data Analysis (EDA) on a retail sales dataset containing customer transaction information. The dataset includes key fields such as transaction ID, date, customer demographics (age, gender), product category, quantity, price per unit, and total amount. The goal is to uncover patterns, trends, anomalies, and customer segments to derive actionable business insights using Python libraries like Pandas, Matplotlib, and Seaborn.
 
